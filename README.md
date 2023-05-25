@@ -22,18 +22,18 @@ The clinic management system Laravel project includes the following features:
 
 ## Usage and screenshots
 
-- In Dashboard we can see system analytics for main modules such as patients , reservations , medicines , etc .....
+1- In Dashboard we can see system analytics for main modules such as patients , reservations , medicines , etc .....
 
 ![1- dashboard](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/8344c0e4-f24f-498d-92e1-598ad92848ac)
 
-1- In events part , we can add events in calender and manage these events .
+2- In events part , we can add events in calender and manage these events .
 
 | Calendar               | Events              |
 | ---------------------- | ---------------------- |
 | ![2- calendar](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/108f2d1f-0b8d-49d5-825c-fe9f7058c861) | ![2- events](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/d245ce87-9a42-4cd7-89e6-17347ee4dec8)
 
 
-2- In Patient Part , we can manage patient add , edit , delete , restore , delete_forever patient .
+3- In Patient Part , we can manage patient add , edit , delete , restore , delete_forever patient .
 
 | Patients               | Add Patient            |
 | ---------------------- | ---------------------- |
@@ -44,7 +44,7 @@ The clinic management system Laravel project includes the following features:
 | ![3- edit patient](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/4d00bff4-4438-4d57-ad2e-ea4b2e023682)| ![3- patient card](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/e83de9c9-1a79-48b2-adbd-c2c5818c5f6d) |
 
 
-3- In Reservations / Appointments parts , we can manage reservation add , edit , delete , restore , delete_forever reservation 
+4- In Reservations / Appointments parts , we can manage reservation add , edit , delete , restore , delete_forever reservation 
 
 | Reservations           | Add Reservation        | 
 | ---------------------- | ---------------------- | 
@@ -80,38 +80,38 @@ The clinic management system Laravel project includes the following features:
 | ----------------------   | ----------------------------   | ------------------------       |
 | ![4 4 add prescription](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/e5d1c58f-2199-4912-9e54-ba123c3a8aa6)| ![4 4 show prescription arabic ](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/f59d1a95-e15b-492e-a142-9d8726a11499)| ![4 4 show prescription English](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/65d900ca-ed2d-499c-a13c-30313647019c)|
 
-4- In online Reservation / appointment part : admin , doctor can add , delete online reservation using zoom meeting app 
+5- In online Reservation / appointment part : admin , doctor can add , delete online reservation using zoom meeting app 
 
 | Online Reservation       | Add Online Reservation         | Delete Online Reservation         |
 | ----------------------   | ----------------------------   | ----------------------------      |
 | ![5- online reservations](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/8586efcf-983e-412a-9e31-d83d23d176d5)|    ![5- add online reservation](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/66a6adb6-f3c9-4158-8f56-6605c9af9585)|   ![5- delete online reservation](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/0df57437-31c1-4d69-a95a-3529baf78a51)|
 
-5- In medicine part : admin , doctor can add , edit , delete medicines and there are 7759 medicine already stored in database ( from DrugBank website )
+6- In medicine part : admin , doctor can add , edit , delete medicines and there are 7759 medicine already stored in database ( from DrugBank website )
 
 | Medicines                |  Add Medicine                  | Edit Medicine                  |
 | ----------------------   | ----------------------------   | ------------------------       |
 | ![6-  medicines](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/64a1d019-4297-4557-8ce7-6a422bd44ae9)| ![6- add medicine ](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/84e39cdb-b17c-40e5-8c9e-58fcc59344d5)| ![6- edit medicine](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/077ad099-20f7-417d-a02c-d6b4a6ca221e)|
 
-6- In Fees Part : admin , doctor can get daily , monthly and all fees of reservations on the system
+7- In Fees Part : admin , doctor can get daily , monthly and all fees of reservations on the system
 
 | Daily Fees                |  Monthly Fees                  | All Fees                       |
 | ----------------------    | ----------------------------   | ------------------------       |
 | ![7- daily fees ](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/c3728312-16b3-41a1-a24a-c288086e3795)| ![7- monthly fees](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/3004e741-63e8-443e-a01c-d85fdfdf7c8b)|![7- all fees](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/9e80ac26-e64d-43f8-88a9-411ff806e58a)|
 
-7- In Users Part : admin can add , edit , delete users (admin , doctor)
+8- In Users Part : admin can add , edit , delete users (admin , doctor)
 
 |  Users                    | Add User                       | Edit User                       |
 | ----------------------    | ----------------------------   | ------------------------        |
 | ![8- users](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/4a14fcdc-bba8-44a5-a71d-f38dc04286ab)|![8- add user](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/3c69b5aa-bbb5-41b5-accb-c7699541838f)|  ![8- edit user](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/a459e2e3-03f8-4a64-9775-6b362e034fc4)|
 
-8- In Role Part : admin can add, edit , delete roles (permissions)
+9- In Role Part : admin can add, edit , delete roles (permissions)
 
 |  Roles                    | Add Role                       | Edit Role                       |
 | ----------------------    | ----------------------------   | ------------------------        |
 |  ![9- roles](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/45ec4918-9099-49d5-a821-00500e15ad81)| ![9- add role](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/e49df0ae-beab-41ff-a610-466a67e6cd85)| ![9- edit role](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/e847128e-32d8-4460-be62-844b3ece05d8)|
 
 
-In system Setting part : admin can control all parts in system 
+10- n system Setting part : admin can control all parts in system 
 
 |  System settings          | 
 | ----------------------    | 

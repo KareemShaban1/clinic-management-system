@@ -1,1 +1,92 @@
-# clinic_management_system
+# Clinic Management System Laravel Project
+
+This repository contains a clinic management system project built using the Laravel framework. The project aims to provide an efficient and user-friendly solution for managing appointments, patient records, and clinic operations.
+
+![dashboard](https://github.com/KareemShaban1/e-commerce_laravel/assets/42013687/3aff29b6-a2c6-46d2-b989-c638d4c4ce2a)
+
+## Features
+
+The clinic management system Laravel project includes the following features:
+
+1. User Managements: Admin can add , edit , delete another system users with different roles .
+2. Appointment Scheduling: staff can manage and schedule appointments.
+3. Events Management : doctor , admin can add , delete events . 
+4. Patient Management: Staff can manage patient records, including personal information, medical history, and appointments.
+6. Billing and Invoicing: Staff can generate bills and invoices for patients and track payment status.
+7. Prescription Management: Doctors can create and manage prescriptions for patients.
+8. Medical Reports: Doctors can generate medical reports for patients and attach them to their records.
+9. Search Functionality: Users can search for patients, appointments, medicines and medical records.
+10. Multi Languages : System support multiple Language (Arabic , English)
+11. Email Notifications: Users receive email notifications for appointment reminders and updates. (in progress)
+
+
+## Usage and screenshots
+
+- In Dashboard we can see system analytics for main modules such as patients , reservations , medicines , etc .....
+
+![1- dashboard](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/8344c0e4-f24f-498d-92e1-598ad92848ac)
+
+1- In events part , we can add events in calender and manage these events .
+
+| Calendar               | Events              |
+| ---------------------- | ---------------------- |
+| ![2- calendar](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/108f2d1f-0b8d-49d5-825c-fe9f7058c861) | ![2- events](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/d245ce87-9a42-4cd7-89e6-17347ee4dec8)
+
+
+2- In Patient Part , we can manage patient add , edit , delete , restore , delete_forever patient .
+
+| Patients               | Add Patient            |
+| ---------------------- | ---------------------- |
+| ![3- patients](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/58e2e5eb-fe90-4220-bba2-d7d5e7835bba)| ![3- add patient](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/1b2d29b7-996b-4334-a355-a671e8351112) |
+
+| Edit Patient           |  Patient card          |
+| ---------------------- | ---------------------- |
+| ![3- edit patient](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/4d00bff4-4438-4d57-ad2e-ea4b2e023682)| ![3- patient card](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/e83de9c9-1a79-48b2-adbd-c2c5818c5f6d) |
+
+
+3- In Reservations / Appointments parts , we can manage reservation add , edit , delete , restore , delete_forever reservation 
+
+| Reservations           | Add Reservation        | 
+| ---------------------- | ---------------------- | 
+| ![4- reservations](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/0739ebe8-80c0-4a00-85f2-a80a3035fbb2)| ![4- add reservation](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/46b8adc9-2a55-406f-b248-16b2a91aaddb) | 
+
+| Edit Reservation       |  Daily Reservations    |
+| ---------------------- | ---------------------- |
+| ![4- edit reservation](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/6a852838-0671-4196-b12d-7eb815fb2ede)| ![4- daily reservations](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/d58f35ed-e3f5-40f5-89ef-f1f463d1330f) |
+
+-- we can also add addtional  for reservation such as :
+
+- Rays / Analysis (أالأشعة و التحاليل)
+
+| Add Rays / Analysis      | Edit Rays / Analysis      | Show Rays / Analysis     |
+| ----------------------   | ----------------------    | ------------------------ |
+| ![4 1 add rays_analysis](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/713aa113-6171-44e1-a3ba-01cac2fdf955) | ![4 2 edit rays_analysis](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/d7342a56-3d1e-47ff-b478-db99971f0eb0) | ![4 1 show rays_analysis](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/a91984a6-f4bc-412a-97f0-4caab67e3f75)|
+
+- Chronic Diseases (الأمراض المزمنة)
+
+| Add Chronic Disease      | Edit Chronic Disease      | Show Chronic Disease     |
+| ----------------------   | ----------------------    | ------------------------ |
+| ![4 2 add chronic disease ](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/429329d4-dc47-4648-996c-e3fbcb146bdc)| ![4 2 edit chronic disease ](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/387b2d4b-5616-4ab2-b5fa-d96dd9f2cb1a)|  ![4 2 show chronic disease ](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/506b117a-f3e0-4eb2-812d-dcbe6e6fff80)|
+
+- Glasses Distances (مقاسات النظارة) for eye clinic 
+
+| Add Glasses Distance     | Edit Glasses Distance     | Show Glasses Distance    |
+| ----------------------   | ----------------------    | ------------------------ |
+| ![4 3 add glasses distance](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/e93ef225-e183-4d6c-b8ac-727bdba48044)| ![4 3 edit glasses distance](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/dd71f1d2-de3c-4c42-9cb5-c654327117ae)| ![4 3 show glasses distance](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/b59fb563-47e9-45e2-9baf-79b0a86c2d1e) |
+
+- Prescription (الروشتة)  
+
+| Add Prescription         | Show Prescription (Arabic)     | Show Prescription (English)    |
+| ----------------------   | ----------------------------   | ------------------------       |
+| ![4 4 add prescription](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/e5d1c58f-2199-4912-9e54-ba123c3a8aa6)| ![4 4 show prescription arabic ](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/f59d1a95-e15b-492e-a142-9d8726a11499)| ![4 4 show prescription English](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/65d900ca-ed2d-499c-a13c-30313647019c)|
+
+4- In online Reservation / appointment part : admin , doctor can add , delete online reservation using zoom meeting app 
+
+| Online Reservation       | Add Online Reservation         |
+| ----------------------   | ----------------------------   |
+|                          |                                |
+
+
+
+
+

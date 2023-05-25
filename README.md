@@ -82,11 +82,39 @@ The clinic management system Laravel project includes the following features:
 
 4- In online Reservation / appointment part : admin , doctor can add , delete online reservation using zoom meeting app 
 
-| Online Reservation       | Add Online Reservation         |
-| ----------------------   | ----------------------------   |
-|                          |                                |
+| Online Reservation       | Add Online Reservation         | Delete Online Reservation         |
+| ----------------------   | ----------------------------   | ----------------------------      |
+| ![5- online reservations](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/8586efcf-983e-412a-9e31-d83d23d176d5)|    ![5- add online reservation](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/66a6adb6-f3c9-4158-8f56-6605c9af9585)|   ![5- delete online reservation](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/0df57437-31c1-4d69-a95a-3529baf78a51)|
+
+5- In medicine part : admin , doctor can add , edit , delete medicines and there are 7759 medicine already stored in database ( from DrugBank website )
+
+| Medicines                |  Add Medicine                  | Edit Medicine                  |
+| ----------------------   | ----------------------------   | ------------------------       |
+| ![6-  medicines](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/64a1d019-4297-4557-8ce7-6a422bd44ae9)| ![6- add medicine ](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/84e39cdb-b17c-40e5-8c9e-58fcc59344d5)| ![6- edit medicine](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/077ad099-20f7-417d-a02c-d6b4a6ca221e)|
+
+6- In Fees Part : admin , doctor can get daily , monthly and all fees of reservations on the system
+
+| Daily Fees                |  Monthly Fees                  | All Fees                       |
+| ----------------------    | ----------------------------   | ------------------------       |
+| ![7- daily fees ](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/c3728312-16b3-41a1-a24a-c288086e3795)| ![7- monthly fees](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/3004e741-63e8-443e-a01c-d85fdfdf7c8b)|![7- all fees](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/9e80ac26-e64d-43f8-88a9-411ff806e58a)|
+
+7- In Users Part : admin can add , edit , delete users (admin , doctor)
+
+|  Users                    | Add User                       | Edit User                       |
+| ----------------------    | ----------------------------   | ------------------------        |
+| ![8- users](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/4a14fcdc-bba8-44a5-a71d-f38dc04286ab)|![8- add user](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/3c69b5aa-bbb5-41b5-accb-c7699541838f)|  ![8- edit user](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/a459e2e3-03f8-4a64-9775-6b362e034fc4)|
+
+8- In Role Part : admin can add, edit , delete roles (permissions)
+
+|  Roles                    | Add Role                       | Edit Role                       |
+| ----------------------    | ----------------------------   | ------------------------        |
+|  ![9- roles](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/45ec4918-9099-49d5-a821-00500e15ad81)| ![9- add role](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/e49df0ae-beab-41ff-a610-466a67e6cd85)| ![9- edit role](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/e847128e-32d8-4460-be62-844b3ece05d8)|
 
 
+In system Setting part : admin can control all parts in system 
 
+|  System settings          | 
+| ----------------------    | 
+| ![10- system settings](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/09348109-a77f-4834-bb5e-5480df411658)|
 
 

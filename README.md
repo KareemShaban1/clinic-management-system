@@ -2,7 +2,7 @@
 
 This repository contains a clinic management system project built using the Laravel framework. The project aims to provide an efficient and user-friendly solution for managing appointments, patient records, and clinic operations.
 
-![dashboard](https://github.com/KareemShaban1/e-commerce_laravel/assets/42013687/3aff29b6-a2c6-46d2-b989-c638d4c4ce2a)
+![1- dashboard](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/0a7d112e-2723-49ce-a1dc-bbb15702525b)
 
 ## Features
 
@@ -24,7 +24,8 @@ The clinic management system Laravel project includes the following features:
 
 1- In Dashboard we can see system analytics for main modules such as patients , reservations , medicines , etc .....
 
-![1- dashboard](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/8344c0e4-f24f-498d-92e1-598ad92848ac)
+![1- dashboard](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/0a7d112e-2723-49ce-a1dc-bbb15702525b)
+
 
 2- In events part , we can add events in calender and manage these events .
 

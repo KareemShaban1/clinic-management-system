@@ -21,7 +21,9 @@ The clinic management system Laravel project includes the following features:
 11. Email Notifications: Users receive email notifications for appointment reminders and updates. (in progress)
 
 
-## Usage and screenshots
+### Usage and screenshots
+
+## Admin Dashboard
 
 1- In Dashboard we can see system analytics for main modules such as patients , reservations , medicines , etc .....
 
@@ -120,5 +122,40 @@ The clinic management system Laravel project includes the following features:
 |  System settings          | 
 | ----------------------    | 
 | ![10- system settings](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/09348109-a77f-4834-bb5e-5480df411658)|
+
+
+## Patient Dashboard
+
+1- Dashbaord
+
+|  Dashboard                | 
+| ----------------------    | 
+|![patient dashboard](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/b234e4c7-2cc3-448a-a4f2-31a820d89534)|
+
+
+2- Reservations
+
+|  Reservations             | Add Reservation                | 
+| ----------------------    | ----------------------------   |
+| ![patient dashboard reservations](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/13a5b82f-41a0-4cf3-b73e-8c56fadd4484)| ![patient dashboard add reservation](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/5df07433-d81e-44a1-a622-5de92cc50381)| 
+
+
+
+3- Chronic Disease
+
+| Chronic Disease           | 
+| ----------------------    | 
+|![patient dashboard chronic](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/dbd35403-184a-47f7-ae59-8cf4fd145936)|
+
+
+
+4- Rays
+
+|  Rays                     | 
+| ----------------------    | 
+|![patient dashboard rays](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/5aa6a467-442a-4486-8d94-3676fb245bfa)|
+
+
+
 
 

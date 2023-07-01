@@ -2,7 +2,8 @@
 
 This repository contains a clinic management system project built using the Laravel framework. The project aims to provide an efficient and user-friendly solution for managing appointments, patient records, and clinic operations.
 
-![1- dashboard](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/0a7d112e-2723-49ce-a1dc-bbb15702525b)
+![1- dashboard](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/52f5042f-c864-4744-8ea9-12b1d1afafb4)
+
 
 ## Features
 
@@ -24,7 +25,7 @@ The clinic management system Laravel project includes the following features:
 
 1- In Dashboard we can see system analytics for main modules such as patients , reservations , medicines , etc .....
 
-![1- dashboard](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/0a7d112e-2723-49ce-a1dc-bbb15702525b)
+![1- dashboard](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/bf1e34f0-8fb3-4802-83a4-7bac636b9e87)
 
 
 2- In events part , we can add events in calender and manage these events .
@@ -49,11 +50,13 @@ The clinic management system Laravel project includes the following features:
 
 | Reservations           | Add Reservation        | 
 | ---------------------- | ---------------------- | 
-| ![4- reservations](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/0739ebe8-80c0-4a00-85f2-a80a3035fbb2)| ![4- add reservation](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/46b8adc9-2a55-406f-b248-16b2a91aaddb) | 
+| ![4- add reservation (2)](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/fa7c2ec4-d54b-42af-b8c9-266da540e398)
+| ![4- add reservation](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/46b8adc9-2a55-406f-b248-16b2a91aaddb) | 
 
 | Edit Reservation       |  Daily Reservations    |
 | ---------------------- | ---------------------- |
-| ![4- edit reservation](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/6a852838-0671-4196-b12d-7eb815fb2ede)| ![4- daily reservations](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/d58f35ed-e3f5-40f5-89ef-f1f463d1330f) |
+| ![4- edit reservation](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/2a42650c-d9b3-4988-9e4d-9164de2c043b)
+| ![4- daily reservations](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/d58f35ed-e3f5-40f5-89ef-f1f463d1330f) |
 
 -- we can also add addtional  for reservation such as :
 

@@ -2,7 +2,7 @@
 
 This repository contains a clinic management system project built using the Laravel framework. The project aims to provide an efficient and user-friendly solution for managing appointments, patient records, and clinic operations.
 
-![1- dashboard](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/52f5042f-c864-4744-8ea9-12b1d1afafb4)
+![frontend](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/080c273c-567b-4425-9e1b-0879dd9fd36e)
 
 
 ## Features
@@ -18,8 +18,9 @@ The clinic management system Laravel project includes the following features:
 8. Medical Reports: Doctors can generate medical reports for patients and attach them to their records.
 9. Search Functionality: Users can search for patients, appointments, medicines and medical records.
 10. Multi Languages : System support multiple Language (Arabic , English)
-11. Responsive Design : System incorporates a responsive design to ensure optimal user experience across a variety of devices and screen sizes >
-12. Email Notifications: Users receive email notifications for appointment reminders and updates. (in progress)
+11. Responsive Design : System incorporates a responsive design to ensure optimal user experience across a variety of devices and screen sizes .
+12. Notifications : provide notifications functionality between patient and admin / doctor .
+13. Email Notifications: Patients receive email notifications for appointment reminders and updates. (in progress)
 
 
 ### Usage and screenshots
@@ -28,7 +29,7 @@ The clinic management system Laravel project includes the following features:
 
 1- In Dashboard we can see system analytics for main modules such as patients , reservations , medicines , etc .....
 
-![1- dashboard](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/bf1e34f0-8fb3-4802-83a4-7bac636b9e87)
+![admin_dashboard](https://github.com/KareemShaban1/clinic_management_system/assets/42013687/2b8781cf-d0a0-4a5f-80f1-6454aefff3e0)
 
 
 2- In events part , we can add events in calender and manage these events .

@@ -18,7 +18,8 @@ The clinic management system Laravel project includes the following features:
 8. Medical Reports: Doctors can generate medical reports for patients and attach them to their records.
 9. Search Functionality: Users can search for patients, appointments, medicines and medical records.
 10. Multi Languages : System support multiple Language (Arabic , English)
-11. Email Notifications: Users receive email notifications for appointment reminders and updates. (in progress)
+11. Responsive Design : System incorporates a responsive design to ensure optimal user experience across a variety of devices and screen sizes >
+12. Email Notifications: Users receive email notifications for appointment reminders and updates. (in progress)
 
 
 ### Usage and screenshots
